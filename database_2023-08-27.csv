@@ -1,0 +1,401 @@
+name,nif,address,cp,color,phone,ssn,count_bank
+Bernabé Cano-Pinedo,29860337N,"Glorieta Ana Sofía Echevarría 800
+Ceuta, 07125",cp: 23919,#ee2ef4,+34875537022,29860337N,count_bank: ES2101218797501443829013
+Inocencio Alba Casals,Y8538772J,"C. de Alondra Tamarit 64
+Girona, 18537",cp: 34022,#fcc7e3,+34945 016 498,Y8538772J,count_bank: ES7200725743477362589233
+Carmelita Navas Verdejo,68278963J,"Camino Juana León 99 Apt. 32 
+Salamanca, 17683",cp: 16878,#ce800c,+34 819 89 11 82,68278963J,count_bank: ES0865405112322275527007
+Blas Echevarría Ochoa,16983966F,"Vial de Esmeralda Mínguez 9 Apt. 42 
+Málaga, 28359",cp: 01160,#fced7b,+34 920398479,16983966F,count_bank: ES5993938864384545182566
+Aarón Solsona,66962292T,"Glorieta Lucila Saavedra 86
+Burgos, 09943",cp: 12328,#eab8a4,+34 980 325 131,66962292T,count_bank: ES6791703218380860060742
+Jacinta de Sabater,A97956338,"Acceso de Andrea Jáuregui 8 Apt. 62 
+La Coruña, 02944",cp: 34610,#199906,+34888 78 21 44,A97956338,count_bank: ES4778101958747360959933
+Olimpia del Antón,Z1054038E,"Pasadizo Carmela Montes 32 Apt. 88 
+Barcelona, 38864",cp: 23003,#58dd8d,+34 885 125 909,Z1054038E,count_bank: ES6323395342768358190318
+Odalys Alfonso Silva,63690650Q,"Paseo Sosimo Carnero 89 Piso 0 
+Sevilla, 48587",cp: 05967,#7deda8,+34979 50 70 07,63690650Q,count_bank: ES8163737035650276253439
+Jesús Esparza Montserrat,U4576999I,"C. de Haydée Barriga 15 Puerta 6 
+Badajoz, 45045",cp: 22613,#74edd2,+34827 39 00 99,U4576999I,count_bank: ES7671937639979035280621
+Silvia Miranda Elías,P7572551E,"Cañada Eladio Ibáñez 13 Piso 4 
+Huesca, 20235",cp: 09049,#ef34dd,+34926 88 48 72,P7572551E,count_bank: ES5598323346221253614108
+Ángeles Torralba Anguita,95745419F,"Urbanización Pelayo Silva 5 Puerta 7 
+Baleares, 41999",cp: 12143,#46e287,+34 645 04 37 99,95745419F,count_bank: ES2893895798593658299743
+Josefina Márquez Cortina,W7943800H,"Acceso de Hipólito Pérez 7 Apt. 98 
+Lleida, 33984",cp: 33689,#80ccd6,+34927352186,W7943800H,count_bank: ES6683912482792845528888
+Jenny Patiño-Lamas,Y7724071H,"Cañada Vidal Soriano 89
+La Coruña, 51805",cp: 25211,#c1862e,+34 710881430,Y7724071H,count_bank: ES5590651422528171791348
+Josefa Cabrera Boix,E42017376,"Alameda de Ainoa Patiño 592
+Cuenca, 11983",cp: 45502,#9bdd27,+34 981 10 12 14,E42017376,count_bank: ES5090389084814680232412
+Rosario Prieto Sevillano,X5887209Z,"Alameda de José Luis Roma 74
+Granada, 03971",cp: 28578,#7ff9b2,+34 978 20 23 32,X5887209Z,count_bank: ES6184675694799164523241
+Damián Zamora Navarro,07304765B,"Acceso Édgar Perez 4 Apt. 38 
+Valladolid, 38176",cp: 34742,#db48bb,+34846 19 68 38,07304765B,count_bank: ES5801009168619397372023
+Sabina Llamas Peñas,Y5380222F,"Pasaje de Florinda Ortuño 424 Apt. 60 
+Alicante, 35054",cp: 32808,#12188c,+34 947372786,Y5380222F,count_bank: ES7660673809620928492295
+Paloma Azucena Olivé Mendizábal,X0726362E,"Vial Amador Planas 9
+Ávila, 36141",cp: 43242,#54e557,+34982 493 361,X0726362E,count_bank: ES7876244438009990076564
+Itziar Sobrino Cerdán,G56049166,"Rambla de Ismael Montero 15
+Madrid, 33553",cp: 23550,#2334ef,+34 825 79 00 68,G56049166,count_bank: ES0418631144153376755311
+Ismael Vergara Mateos,67234504F,"Urbanización Marisol Mena 92 Piso 6 
+Ourense, 49093",cp: 51279,#aba2e5,+34 844 32 66 77,67234504F,count_bank: ES2389235777256187995702
+Florentino Benavides Mancebo,65580533N,"Callejón de Aurelia Castells 717
+Guipúzcoa, 16890",cp: 01310,#f8ff38,+34 872161019,65580533N,count_bank: ES7001819996188668936062
+Soledad de Salamanca,Z6553581N,"Acceso Débora Hernandez 71 Puerta 0 
+Girona, 17281",cp: 15793,#c4cbfc,+34 900 077 520,Z6553581N,count_bank: ES4266849870987483393931
+Felisa Ferrán Blanca,66393665W,"Callejón de Hortensia Jordá 27
+La Rioja, 10530",cp: 07844,#81ef9e,+34 879 79 28 32,66393665W,count_bank: ES2578797247875765721128
+Piedad del Crespo,04029065V,"Callejón Macarena Reguera 3 Puerta 4 
+Granada, 39732",cp: 39564,#84f9e6,+34 737064405,04029065V,count_bank: ES2619741470007741049103
+Flora Medina Marqués,62320929Z,"Urbanización Cándida Cerezo 30
+Baleares, 20011",cp: 22206,#69dbcd,+34803208100,62320929Z,count_bank: ES7125743866193039863059
+Francisco Jose Beltrán Cano,37443567G,"Calle Paz Luján 78
+Cádiz, 31898",cp: 28647,#f5fcae,+34 927 11 89 35,37443567G,count_bank: ES5874450773298180885007
+Albino Severiano Bustamante Sandoval,84024524G,"Vial de Hector Isern 28
+Valladolid, 05510",cp: 05769,#f835ff,+34 944 78 12 27,84024524G,count_bank: ES8862234284995949212540
+Marisela Riba Falcón,C65901530,"Paseo Estela Royo 4
+Segovia, 03220",cp: 07931,#a7d2f9,+34947 869 736,C65901530,count_bank: ES9329648927049681469108
+Melchor Prado-Lasa,R7294089C,"Camino Octavio Lillo 2 Piso 4 
+Soria, 04444",cp: 09070,#ffd182,+34981 499 890,R7294089C,count_bank: ES5144970862341530780947
+Salomé Ruano Peiró,87481151F,"Pasadizo de Mar Jiménez 75
+Valencia, 21388",cp: 29855,#89d13c,+34 973444364,87481151F,count_bank: ES2819477114545753618366
+Nicolás Tamayo Duarte,D27219294,"Acceso de Remedios Quintero 536 Puerta 6 
+Girona, 28722",cp: 01375,#c2cff9,+34 828 536 887,D27219294,count_bank: ES7121156657116371714678
+Noé Quirós Grande,W1933645B,"Rambla de Gastón Jover 17
+Murcia, 48180",cp: 29667,#ffd3c6,+34 827 361 539,W1933645B,count_bank: ES2985417825692242085478
+Hilda Iborra-Castillo,Y3922249G,"Calle Luis Benito 17
+Segovia, 14072",cp: 33809,#52d80a,+34 806398267,Y3922249G,count_bank: ES0443115790987835760681
+Roldán Seco Frutos,P2924794G,"Cuesta Manu Correa 34 Apt. 74 
+Murcia, 25301",cp: 31465,#ed9cdd,+34 901 663 237,P2924794G,count_bank: ES4078761068300513302173
+Remedios Amigó Isern,Y5639804B,"Cañada de Renato Alba 16 Apt. 53 
+Salamanca, 14635",cp: 16591,#e204bd,+34882 14 98 89,Y5639804B,count_bank: ES1833963044372691167561
+Josefina Morcillo Mendez,X2129469Z,"Via Elías Fuster 46 Apt. 62 
+Albacete, 18882",cp: 04816,#eadf3c,+34 978876221,X2129469Z,count_bank: ES5500132845596154608814
+Juan Manuel Arjona Alfaro,33543570W,"Paseo de Flavio Ortuño 246 Puerta 2 
+Albacete, 12377",cp: 07482,#63ed81,+34 717 334 826,33543570W,count_bank: ES7989172842897016364935
+Hernán Gutiérrez Tormo,22103106Z,"Callejón de Benita Portero 6
+Zamora, 05244",cp: 06045,#e79af4,+34880 68 16 80,22103106Z,count_bank: ES4685128365394856456753
+Severo Arsenio Plaza Mármol,89634596P,"Avenida de Maricela Sandoval 904
+Santa Cruz de Tenerife, 42949",cp: 08488,#fc2de7,+34884830590,89634596P,count_bank: ES1723363839535987752024
+Trinidad Erasmo Pallarès Quintana,B84829118,"Camino de Gilberto Sevilla 43
+Barcelona, 07186",cp: 06393,#dde88b,+34823 951 571,B84829118,count_bank: ES6452419896495285689336
+Alejandro Cuervo Avilés,H93218964,"Pasaje de Loida Salmerón 34 Apt. 81 
+Murcia, 38523",cp: 34945,#da84e0,+34883 345 523,H93218964,count_bank: ES5657217362409174982364
+Noelia Castrillo Adadia,R9400633E,"Via de Hernán Pulido 39
+Navarra, 15482",cp: 50842,#b28a1a,+34 988 934 074,R9400633E,count_bank: ES4345900224224431851706
+Jose Francisco Íñigo Adadia Roca,X7921886L,"Acceso Celia Ibarra 18
+Ourense, 41876",cp: 51401,#0a9996,+34 928 14 64 68,X7921886L,count_bank: ES2163144498096702772407
+Gastón Olivares Exposito,11577866B,"Acceso de Consuelo Requena 81 Puerta 4 
+Almería, 01704",cp: 52049,#f6c7fc,+34 886935745,11577866B,count_bank: ES2626645600198556419609
+Adelia Aliaga Soler,63759707G,"Vial Benito Borrego 48
+Santa Cruz de Tenerife, 46234",cp: 08739,#79a80d,+34 936 015 067,63759707G,count_bank: ES1759478615667024321331
+Fanny Pizarro Arteaga,B33805326,"Via de Berta Pinto 566 Puerta 1 
+Zamora, 20793",cp: 04056,#e28cce,+34 841153942,B33805326,count_bank: ES9345176981871598843279
+Blanca Collado Hierro,Y0411283B,"Pasaje de Yago Villaverde 88
+Badajoz, 24672",cp: 38839,#0c3666,+34844 74 48 85,Y0411283B,count_bank: ES3435238803810390890556
+Anastasio Fernandez Viña,E08806168,"C. Atilio Cal 49
+Córdoba, 10147",cp: 18411,#cbf450,+34971227519,E08806168,count_bank: ES6893230945322843654259
+Efraín Gárate Mora,X3526283S,"Calle Teobaldo Vergara 608
+Santa Cruz de Tenerife, 15056",cp: 29336,#98f9d9,+34 702 94 26 40,X3526283S,count_bank: ES2573579560585436122115
+Simón Santamaría Aliaga,A93686798,"Rambla de Josefina Aller 8 Piso 6 
+Sevilla, 06633",cp: 02448,#5bd639,+34 959 384 673,A93686798,count_bank: ES8780244338576794877980
+Marita de Cañas,59683935Q,"Glorieta de Nazario Riquelme 8
+Santa Cruz de Tenerife, 13131",cp: 26860,#97fc97,+34 974 81 50 14,59683935Q,count_bank: ES1149442127014231363701
+Rogelio Batalla-Angulo,Q1066218G,"Cañada de Melania Valencia 533
+Teruel, 26077",cp: 10010,#3fe24a,+34 821 72 80 16,Q1066218G,count_bank: ES9116086521467226240812
+Eugenia Vázquez Amorós,98905942P,"Callejón Olivia Cuesta 95
+Cáceres, 27251",cp: 48211,#8a6bce,+34 925 82 33 81,98905942P,count_bank: ES7105397580003972877724
+Zaida Jaén-Moraleda,C21147194,"Pasadizo de Pánfilo Marquez 2
+Álava, 45338",cp: 21231,#68bcdd,+34 883620403,C21147194,count_bank: ES0565612817036464674909
+Loida Castejón,C60302130,"Vial de Remigio Abella 7 Apt. 53 
+Huelva, 30414",cp: 49972,#9bd1dd,+34 982 79 16 06,C60302130,count_bank: ES2700185456328883484280
+Chuy Fajardo,46296470T,"Avenida Nicolás Pina 16
+La Rioja, 31625",cp: 14672,#fcc7e4,+34 874 525 150,46296470T,count_bank: ES7334113766526989156223
+Danilo Abella,Y8275069M,"Pasadizo Vera Cisneros 15
+Vizcaya, 29877",cp: 12485,#5b0699,+34981377329,Y8275069M,count_bank: ES7335745803416835221236
+Clara Rivero Miralles,B73170524,"Camino Pepe Casares 3 Apt. 24 
+Madrid, 39577",cp: 37341,#99efbb,+34881437634,B73170524,count_bank: ES5459097671531759597791
+Nuria Montoya-Bonilla,Z6071906A,"Rambla de Cipriano Gomez 810
+La Rioja, 44871",cp: 32917,#41e241,+34 812 650 169,Z6071906A,count_bank: ES8042142392927632409442
+Toribio Diego,83478301P,"Rambla Apolonia Tomé 10 Piso 7 
+La Rioja, 48765",cp: 14368,#dd54a4,+34876483545,83478301P,count_bank: ES7472318601735044718889
+Mamen Amo Quintanilla,Z2268103D,"Via Aura Medina 189 Puerta 7 
+León, 29621",cp: 13102,#bcd804,+34 902 331 734,Z2268103D,count_bank: ES9613214832749673900205
+Renata Briones Palau,89289348J,"Callejón de Bautista Gárate 1
+Málaga, 03370",cp: 18693,#b0e072,+34975 76 50 70,89289348J,count_bank: ES8332495558254311433647
+Esther Vigil Trillo,X4725093L,"Ronda Domingo Mendez 22
+La Coruña, 41233",cp: 33633,#7d9be8,+34873744242,X4725093L,count_bank: ES3208336207207408653803
+Rosa María Priego Casanova,X7770724J,"Rambla de Fanny Gomez 698
+Asturias, 47537",cp: 25515,#8ac41f,+34 973 93 09 02,X7770724J,count_bank: ES1283018989157299619290
+Remigio Alegre-Codina,U5079018G,"Alameda de Anna Estevez 70
+Murcia, 34057",cp: 21142,#d1952e,+34 822 72 07 78,U5079018G,count_bank: ES7475672226867493663024
+Olegario Téllez-Oliva,Z7907209K,"Acceso Abril Caballero 8
+Pontevedra, 07683",cp: 05238,#e8b614,+34826 15 61 14,Z7907209K,count_bank: ES0939486408826396258625
+Pepita Verdugo Burgos,48257730G,"Callejón de Mamen Criado 27 Apt. 99 
+Ceuta, 01176",cp: 22015,#d811a3,+34939 62 11 89,48257730G,count_bank: ES3421064093827652376520
+Roque Maestre Barral,62335328S,"Urbanización Julio César Bustamante 536
+Navarra, 22613",cp: 02047,#ed80de,+34862 567 968,62335328S,count_bank: ES2313692410954152393427
+Maite Lamas Bayón,H62385620,"Camino Gilberto Saavedra 1 Piso 9 
+Huelva, 04188",cp: 12538,#4562f7,+34 842 91 10 28,H62385620,count_bank: ES0290460241906672472974
+Genoveva Torrens Otero,Z9700413F,"Urbanización Rebeca Prieto 32
+Murcia, 38918",cp: 32321,#7bed99,+34807 06 07 68,Z9700413F,count_bank: ES9497238654159744082006
+Natalio Echeverría-Sáez,91577100R,"Urbanización de Salvador Escrivá 26
+Palencia, 45392",cp: 42761,#a296f7,+34882365254,91577100R,count_bank: ES8952728805012171273201
+Amado Robledo Frías,B33313610,"Camino Francisco Tejada 984
+Cádiz, 07905",cp: 37052,#f6c9ff,+34 824 196 906,B33313610,count_bank: ES2784033492670736395809
+Clara Belmonte-Mancebo,F5773786H,"Ronda Amor Palacios 80
+Baleares, 26381",cp: 17327,#9b1f3e,+34744791227,F5773786H,count_bank: ES2360700726541023843017
+Jimena Aliaga Pulido,X7599638R,"Via de Adoración Torrijos 22 Apt. 71 
+Barcelona, 04252",cp: 38569,#f9b766,+34 825 462 229,X7599638R,count_bank: ES3182509220423472847687
+Dionisia Martí Vera,H53399424,"Calle Herminia Reina 90 Apt. 27 
+Alicante, 05127",cp: 21518,#bc2f6c,+34 943 959 258,H53399424,count_bank: ES8120149332108588070233
+Kike Calleja Sales,81023092A,"Pasadizo de Angelita Acedo 1 Puerta 7 
+Almería, 32971",cp: 28578,#58d3cf,+34826 694 789,81023092A,count_bank: ES7401159521327149336411
+Isidro Pinilla,Z4073089R,"Pasaje de Candela Zurita 7
+Valencia, 30298",cp: 35021,#5f8dbf,+34734 657 716,Z4073089R,count_bank: ES0326345981784664085404
+Jose Manuel Núñez Diéguez,X8932113V,"Cañada Noé Gutierrez 9
+Valladolid, 16277",cp: 39793,#73ed63,+34 717588021,X8932113V,count_bank: ES1588480443704266919158
+Gastón Escrivá-Elorza,Y5779696V,"Alameda de Hipólito Domingo 47 Puerta 7 
+Guadalajara, 22022",cp: 10022,#f9e459,+34 879 469 451,Y5779696V,count_bank: ES7852231786839385582045
+Florencio Arana Granados,X3597857J,"Cuesta de Alexandra Esteve 98 Apt. 86 
+Palencia, 02364",cp: 38367,#d1b8fc,+34 844 69 14 20,X3597857J,count_bank: ES2412276332166410747411
+Clemente Salmerón Palau,G60938875,"Camino Florina Bilbao 34
+Valladolid, 06071",cp: 34228,#33bf89,+34 824 29 90 84,G60938875,count_bank: ES0485268980416197134864
+Clementina Agudo Cabrera,Z5619859K,"Cuesta de Luna Rico 20 Apt. 67 
+Granada, 42885",cp: 37225,#7bf79e,+34 806 323 960,Z5619859K,count_bank: ES8713985898910295677469
+Felipa Armengol Sarmiento,V6771751B,"Paseo de Carlito Abad 461 Apt. 96 
+Huesca, 11179",cp: 32220,#4ba7f2,+34985 17 68 89,V6771751B,count_bank: ES2968251637605977595933
+Mohamed Girona Fuente,Z2995248D,"Cañada Mateo Cano 67
+Jaén, 40937",cp: 01083,#76f2c2,+34888 145 005,Z2995248D,count_bank: ES2891289780638708440156
+Sigfrido Conrado Novoa Mínguez,98324378E,"Urbanización de Judith Mayo 203
+Valladolid, 35355",cp: 05332,#47ce3d,+34 828 45 96 98,98324378E,count_bank: ES5373312964079079791527
+Nidia de Riquelme,X0865720T,"Urbanización de Virginia Carbajo 3 Piso 1 
+Segovia, 04050",cp: 34305,#c48436,+34888 41 17 97,X0865720T,count_bank: ES0727824119505222079611
+Bonifacio Pinilla Gascón,D23035793,"Cuesta Amelia Andrade 11
+Santa Cruz de Tenerife, 31363",cp: 26966,#ed1207,+34944451834,D23035793,count_bank: ES4404324847119190627966
+Elodia Benito Quero,X1391337K,"Glorieta de Moisés Armengol 16 Piso 8 
+La Coruña, 48054",cp: 15510,#7fe084,+34824368225,X1391337K,count_bank: ES0276197504979407551395
+Tito del Gálvez,94675716B,"Acceso de Jerónimo Mancebo 84
+Jaén, 25341",cp: 47871,#f7abaa,+34 986 19 29 83,94675716B,count_bank: ES9397087664528024014412
+Daniel de Fernández,53858654Z,"Glorieta de Berta Cervera 8 Apt. 57 
+Granada, 43936",cp: 09833,#7dbc31,+34 976 20 68 69,53858654Z,count_bank: ES8580192791449823985886
+Jose Córdoba Español,23306932C,"Alameda de Aura Cisneros 43 Puerta 5 
+Álava, 10480",cp: 38166,#a6f79b,+34 924 70 77 02,23306932C,count_bank: ES8275764576332433209127
+Dominga Canet Puerta,P8101503D,"Glorieta Joan Bustamante 96 Apt. 86 
+Sevilla, 29061",cp: 33187,#ef287b,+34983 36 95 57,P8101503D,count_bank: ES4243615766918358201119
+Susana del Sáez,X7215750Y,"Pasaje de Eliana Poza 898 Puerta 4 
+Lleida, 15819",cp: 47722,#4fb705,+34 976445847,X7215750Y,count_bank: ES2077549420687070767501
+Lara Prada-Estevez,21459978N,"Cañada de Desiderio Palacios 30 Puerta 9 
+Granada, 17598",cp: 16389,#6cddd2,+34 986 391 653,21459978N,count_bank: ES7765002757184847952627
+Juan Ros Lozano,R2530880J,"Camino de Jose Carlos Escamilla 3
+Burgos, 22753",cp: 27839,#d8b227,+34 941 59 71 10,R2530880J,count_bank: ES5561477122131719162457
+Begoña Martin Pareja,R0588960E,"Urbanización de Nydia Rius 20 Piso 9 
+Valencia, 11100",cp: 24813,#599cd6,+34 979 00 51 14,R0588960E,count_bank: ES6205339774569872506022
+Vicente Espejo,X3752548Y,"Plaza de Gisela Ortiz 5 Puerta 6 
+Badajoz, 05793",cp: 14294,#ea3f33,+34928 54 85 70,X3752548Y,count_bank: ES9492561661634559944252
+Felix Alba Avilés,76979923G,"Acceso Leire Iriarte 8
+Badajoz, 33343",cp: 08608,#c49331,+34926 889 288,76979923G,count_bank: ES3731062673268247726486
+Chelo del Torrents,Z9681457A,"Acceso de Fidel Sarmiento 1
+Álava, 38383",cp: 26615,#f6c9ff,+34 976 62 09 92,Z9681457A,count_bank: ES7805166830562669062478
+Reyes Teruel Salvà,X3699909Z,"Rambla de Fabián Villar 545
+Sevilla, 12463",cp: 51104,#8c0819,+34800965044,X3699909Z,count_bank: ES8826964062016803579743
+Angelita Amaya Morell,59133436E,"Avenida Anastasia Barbero 809
+Toledo, 15905",cp: 37431,#ba0e45,+34 888 70 34 24,59133436E,count_bank: ES9458843221478780306704
+Sandra Palacios Rodrigo,Y3961110H,"Ronda de Olga Casals 85 Apt. 52 
+Sevilla, 23742",cp: 07879,#ef2861,+34878 77 95 70,Y3961110H,count_bank: ES0737446587959880242829
+Jacinto Perales Álvaro,E87459368,"Paseo de Sebastián Velasco 720
+León, 44198",cp: 02200,#9072f9,+34942021775,E87459368,count_bank: ES2253197220905000609208
+Jose Miguel Fuertes Fuentes,Q1573611I,"Calle Jose Luis Quiroga 42
+Ciudad, 29658",cp: 05391,#c91699,+34 820056899,Q1573611I,count_bank: ES9794713018698519503992
+Teófila Toledo,B19473339,"Vial Francisco Javier Querol 31 Apt. 28 
+Girona, 10360",cp: 43882,#484cad,+34985907743,B19473339,count_bank: ES1533903696621057615168
+Elisa Sastre Ferrero,42878776Z,"Paseo Trini Ibañez 897
+Valencia, 16013",cp: 25933,#f972ee,+34 946 140 354,42878776Z,count_bank: ES2198528432687147268404
+Amancio Canet Boada,R1574278F,"Paseo Josefa Gonzalez 25
+Zamora, 37681",cp: 05788,#92f47f,+34 830 645 830,R1574278F,count_bank: ES8824870315808451656703
+Almudena Balaguer Vilanova,N7692702I,"Cuesta de Eligia Sobrino 99
+Melilla, 49082",cp: 04682,#a2f9d8,+34 849 64 57 97,N7692702I,count_bank: ES5004588525181069321188
+Hugo Ribes,Z7161465Y,"Cañada de José María Alemany 84 Apt. 58 
+Ourense, 20139",cp: 19132,#fcccbf,+34921 37 29 49,Z7161465Y,count_bank: ES4498793170421650607814
+Celia Gargallo Taboada,19329659E,"Ronda de Abilio Plaza 9 Piso 5 
+Cáceres, 24720",cp: 11970,#4bf248,+34987 36 87 54,19329659E,count_bank: ES2213535950670961403324
+Luz de Arévalo,06096803D,"Paseo Timoteo Oliva 290
+Guipúzcoa, 45162",cp: 12530,#f9e884,+34 828 361 897,06096803D,count_bank: ES5305900862205017157271
+Daniel Ibáñez-Pont,A54029541,"Pasadizo Ágata Zorrilla 6
+Las Palmas, 09569",cp: 25272,#35e897,+34924 17 61 48,A54029541,count_bank: ES4923631982659098012691
+Filomena Sans-Recio,27043158B,"Via de Elvira Alcolea 14 Piso 5 
+Cuenca, 21461",cp: 34279,#e29383,+34 884679838,27043158B,count_bank: ES5232936364591739376020
+Luis Ángel del Pozo,Z2121358G,"Via de Gerónimo Castelló 34
+Lugo, 51340",cp: 41783,#28af67,+34825904098,Z2121358G,count_bank: ES3768344844808363199535
+Jenaro de Monreal,58756462H,"Glorieta Tatiana Bravo 45
+Granada, 39847",cp: 36824,#1ecc4c,+34 846 55 14 78,58756462H,count_bank: ES3273514625171654685761
+Purificación Duque-Sebastián,H22208763,"Pasaje Victor Madrid 353 Piso 2 
+Zamora, 14782",cp: 51436,#f6fc4b,+34 921 87 44 53,H22208763,count_bank: ES2943054053057946834463
+Julie Rodrigo Olmo,G81191264,"Plaza de Emiliano Jaume 53 Piso 0 
+Alicante, 28179",cp: 23490,#a1c423,+34981199245,G81191264,count_bank: ES6824283007798017241941
+Armando del Botella,Q7163181F,"Camino Tamara Borrell 67
+Guipúzcoa, 01753",cp: 20403,#78e055,+34925 047 017,Q7163181F,count_bank: ES1344413701011333508469
+María Carmen Oller Núñez,X2579802F,"Paseo de Silvio Juárez 31 Apt. 57 
+Jaén, 01013",cp: 07353,#d817cf,+34 971 090 759,X2579802F,count_bank: ES4149879213166937527784
+María Teresa Pablo,Y1099445J,"Avenida de Ema Toledo 93 Puerta 0 
+Lleida, 39572",cp: 51877,#4532a3,+34948978433,Y1099445J,count_bank: ES6424906265749301113305
+Ceferino Busquets Beltran,R0179105B,"Plaza Emilio Montesinos 4 Puerta 1 
+Zamora, 37358",cp: 22401,#11931a,+34 924 447 569,R0179105B,count_bank: ES2509881141818932096591
+Vasco Baró Porcel,B98130925,"Avenida de Cleto Canals 804 Apt. 38 
+Las Palmas, 06900",cp: 28390,#f4a8d7,+34 878 16 96 41,B98130925,count_bank: ES3100401898944991166240
+Andrés Guerra Ortuño,Y4250897M,"Via Chuy Mosquera 302 Piso 5 
+Zamora, 04594",cp: 03069,#e07b9e,+34 927 17 61 44,Y4250897M,count_bank: ES7159330776127963310230
+Calixta de Alcázar,20305550T,"Cañada de Esperanza Chaves 58 Puerta 0 
+Valladolid, 46688",cp: 04834,#57e5ed,+34875 684 221,20305550T,count_bank: ES8837751594185788031250
+Ciro Cuevas Bautista,N5052942I,"Camino de Teodora Casado 13
+Ourense, 13894",cp: 34020,#cdf407,+34873 222 732,N5052942I,count_bank: ES8989501213739689284696
+Danilo Manuel Landa,A01858513,"Callejón de Amaro Carreño 1
+Melilla, 28284",cp: 49225,#22b765,+34979 87 50 63,A01858513,count_bank: ES5477660963934996321395
+Mariana Torrecilla-Echeverría,Q8870955E,"Avenida Cristóbal Gomez 77
+Madrid, 27628",cp: 46020,#3c67e8,+34963427849,Q8870955E,count_bank: ES6170898109788501363675
+Ricardo Blázquez Cantón,J1080859J,"Callejón de Juan Bautista Alegre 75 Puerta 0 
+Jaén, 38491",cp: 37668,#57d1b6,+34879 75 36 81,J1080859J,count_bank: ES4867112139433689794107
+Rubén López Yuste,X0903635B,"Pasaje de Abraham Sedano 828 Apt. 94 
+León, 18057",cp: 20563,#7aefa9,+34 878996351,X0903635B,count_bank: ES6139790382077497903883
+Dimas Murcia,X8993118A,"C. de Eulalia Peña 7
+Lugo, 37861",cp: 14296,#0e9137,+34947 93 78 97,X8993118A,count_bank: ES2371614336801609374079
+Tatiana Maestre Carretero,27072015A,"Pasaje Olga Amigó 65 Apt. 67 
+La Rioja, 14186",cp: 02341,#fc2df8,+34825 82 88 09,27072015A,count_bank: ES9239638528432285605131
+Morena Cortina Julián,V1570305A,"Acceso de María Carmen Barceló 31 Puerta 5 
+Las Palmas, 20176",cp: 41915,#e2a02d,+34925861659,V1570305A,count_bank: ES8402108461420854462121
+Itziar Valls Heredia,X7403685P,"Ronda de Severo Sola 77
+Alicante, 06587",cp: 32449,#fc80ee,+34901 177 188,X7403685P,count_bank: ES2216453464357397937746
+Nazaret Andrade-Barreda,Y3238803A,"Pasaje de Édgar Cabrera 8
+Murcia, 14043",cp: 08034,#cc597d,+34 926 22 10 38,Y3238803A,count_bank: ES0331739976400415293965
+Prudencio Jose Carlos Zabaleta Aroca,Z1445712Y,"Callejón de Omar Borrego 9
+Castellón, 32410",cp: 31389,#ffadc3,+34 902 19 56 90,Z1445712Y,count_bank: ES8309105434572576928029
+Remigio María Molina Llorente,B55458376,"Urbanización de León Saldaña 79
+Toledo, 22463",cp: 26108,#e9ff49,+34842 138 399,B55458376,count_bank: ES0829387522250639084586
+Manola Valls Cervera,R9722519G,"Avenida de Irma Losada 94 Puerta 9 
+Cantabria, 21951",cp: 23445,#c918b1,+34 877767719,R9722519G,count_bank: ES4143230973020860700390
+Amarilis Nebot Llopis,X8651114D,"Alameda de Jordán Valverde 70 Apt. 66 
+Albacete, 44655",cp: 05706,#fcef37,+34828638548,X8651114D,count_bank: ES0301260940754494930501
+Carmina Guzman Juan,B68339506,"Calle Catalina Llamas 208
+Álava, 06293",cp: 20631,#9778cc,+34841 529 480,B68339506,count_bank: ES7458647850999838865972
+Viviana Pazos Osuna,Y0229128Q,"C. Fidela Egea 4 Puerta 0 
+Pontevedra, 24781",cp: 15432,#ea0282,+34822930172,Y0229128Q,count_bank: ES0606671314110875282303
+Adoración Susanita Calleja Botella,Z9264382X,"Cuesta de Ramón Arce 1 Puerta 2 
+Valencia, 05498",cp: 10827,#f23259,+34937 65 81 03,Z9264382X,count_bank: ES7180349578276442964279
+Fanny Febe Lorenzo Vicente,24287087F,"C. Haydée Pallarès 9
+Lugo, 03092",cp: 12529,#dd4dd9,+34 971 184 018,24287087F,count_bank: ES2797971879580067487881
+Rómulo Tapia,N2834465C,"C. de Serafina Barba 63
+Burgos, 08489",cp: 05442,#c6355e,+34877 29 03 38,N2834465C,count_bank: ES3026617808623741377372
+Conrado Barranco Garcés,C56158231,"Cañada de Alfredo Robledo 34 Puerta 8 
+Burgos, 38658",cp: 20580,#a8f72a,+34 742 807 674,C56158231,count_bank: ES3591053014193547621917
+Azahar Canals,A46516266,"C. Lilia Zapata 12
+Las Palmas, 14093",cp: 45004,#18ad80,+34 871 821 092,A46516266,count_bank: ES1422497464739170340115
+Fabiana Amarilis Lasa Molina,79566088A,"Pasaje de Vasco Fajardo 29
+Pontevedra, 13299",cp: 12308,#74ba03,+34928 27 09 34,79566088A,count_bank: ES2142704314263060973147
+Donato Gallo,Y0436609Z,"Glorieta Jose Ignacio Sevillano 2 Puerta 5 
+Badajoz, 37612",cp: 06325,#0b47a0,+34807127043,Y0436609Z,count_bank: ES9831885032409712570261
+Paulino del Benítez,X7452827E,"Pasaje de Máxima Barros 40
+Soria, 46962",cp: 34912,#fff6bf,+34846804940,X7452827E,count_bank: ES5937266764858429031035
+Josefina Losada Rosselló,23502084V,"Cuesta de Ruth Carbó 83 Apt. 47 
+Murcia, 19904",cp: 20618,#3f2b87,+34921151650,23502084V,count_bank: ES6227522698326578199027
+Eligia Perera Narváez,Y3908727Y,"Calle Begoña Dávila 1 Apt. 07 
+Badajoz, 23999",cp: 17544,#e0807b,+34 887 46 42 28,Y3908727Y,count_bank: ES4799215787853793603391
+Adalberto de Hurtado,C17825159,"Plaza de Amaya Jódar 94 Piso 0 
+Zaragoza, 27783",cp: 10263,#f49492,+34984853841,C17825159,count_bank: ES1910224803885698993492
+Teresita Jerez Buendía,Y0859944B,"Camino Marcos Gallart 50 Apt. 37 
+Madrid, 33984",cp: 46055,#f95e9a,+34982119179,Y0859944B,count_bank: ES2872793893070141125031
+Estela de Paredes,G62459078,"C. de Marcelo Solís 77 Piso 4 
+La Coruña, 17678",cp: 34058,#79f783,+34927767738,G62459078,count_bank: ES6568961964588586403793
+Américo Ayuso Pujol,U7468200F,"Via de Pancho Tejera 23 Piso 5 
+Girona, 47962",cp: 32785,#6c02e5,+34712 13 55 71,U7468200F,count_bank: ES3138146925732577694896
+Adela Capdevila,H56322100,"Via de Juan José Nicolau 5 Apt. 85 
+Cantabria, 07272",cp: 37972,#298aad,+34 886391164,H56322100,count_bank: ES9316050637683310608679
+Hugo de Feijoo,30881674B,"Via Elisa Buendía 49
+Segovia, 29839",cp: 46734,#7f67d3,+34973129211,30881674B,count_bank: ES8314911038412414398583
+Marcos del Seco,71511639Q,"Avenida León Olivé 764 Piso 3 
+Las Palmas, 01637",cp: 10580,#ea8ab8,+34875 809 910,71511639Q,count_bank: ES0888764571852525066004
+Cecilio Diez-Cañas,Y6435237N,"Callejón de Ana Mora 46
+Santa Cruz de Tenerife, 14100",cp: 44325,#85d852,+34902278187,Y6435237N,count_bank: ES8531877284506882271201
+Manuela Oliva-Salinas,15256134G,"Alameda de Alondra Cases 29 Puerta 4 
+Guadalajara, 08497",cp: 21128,#dbac02,+34731 29 40 63,15256134G,count_bank: ES5938689343020883922777
+María Pilar Bernal Agudo,27619879F,"Pasaje de Lola Ramón 86
+Toledo, 14803",cp: 41865,#76d852,+34963 20 67 88,27619879F,count_bank: ES1536271034737705200362
+Camila Torre Moreno,Y2631297L,"Calle Nico Riquelme 109 Apt. 34 
+La Rioja, 28043",cp: 04959,#dd465d,+34885798840,Y2631297L,count_bank: ES5386088363862957940610
+Eulalia Guitart Carbajo,43409525S,"Acceso de Balduino Lopez 79 Puerta 0 
+Cádiz, 48582",cp: 16629,#e0a36d,+34826 83 20 81,43409525S,count_bank: ES9826424959665684809238
+Yago Tormo Alfonso,81901337Q,"Pasaje de Juan Carlos Cabello 95
+Murcia, 15369",cp: 22455,#d34a87,+34971008194,81901337Q,count_bank: ES1496681739894229861901
+Ascensión Miguel Lasa,92995910X,"Ronda Pepito Querol 16
+Santa Cruz de Tenerife, 09832",cp: 37084,#f2c69f,+34 941924465,92995910X,count_bank: ES6592534822538731907653
+Berto de Pazos,R3484982H,"Vial Carmela Peñalver 807 Piso 5 
+Almería, 31070",cp: 10009,#01a897,+34 976498290,R3484982H,count_bank: ES8333067509875567406484
+Olimpia Borrás Lago,Z4190806G,"Alameda de Bienvenida Cuesta 82 Puerta 9 
+Jaén, 38269",cp: 34762,#2dbf28,+34 949 68 55 01,Z4190806G,count_bank: ES1674943420148281392490
+Consuela Gomila Nogueira,90928787N,"Camino Máxima Marcos 244
+Alicante, 27219",cp: 45813,#e86b0b,+34 824 17 02 77,90928787N,count_bank: ES5976092783804701724620
+Paca Larrañaga,61442558J,"Rambla Haroldo Coloma 65 Piso 1 
+Lleida, 06041",cp: 22439,#029df7,+34881 150 030,61442558J,count_bank: ES1171786572179857307030
+Óscar Palomar Blazquez,39854479X,"Callejón Piedad Conde 69
+Guipúzcoa, 03063",cp: 32590,#82d157,+34 985526113,39854479X,count_bank: ES5674896787835686751552
+Úrsula Lasa Sureda,17799326V,"Camino Flor Samper 8
+Ciudad, 51234",cp: 37422,#e8fc83,+34921 58 35 87,17799326V,count_bank: ES3071389009401585053739
+Asdrubal Aroca Valderrama,X2531193C,"Pasadizo de Isidora Giménez 41 Apt. 69 
+Guipúzcoa, 23534",cp: 32107,#0362c6,+34 849 81 25 90,X2531193C,count_bank: ES7194130503343255913158
+Victoria Nicolás Pulido,33938140F,"Calle Noé Palau 39
+Almería, 19187",cp: 28639,#cc064e,+34875 81 33 44,33938140F,count_bank: ES2565180052322331612034
+Félix del Royo,Z9608798R,"Avenida Mamen Sales 6
+Huesca, 41019",cp: 05018,#6bad01,+34 974480783,Z9608798R,count_bank: ES6337051754566263403293
+Emperatriz Amorós Iglesia,D08611063,"Vial Luna Escobar 63 Puerta 5 
+Sevilla, 43715",cp: 42465,#a4f9ba,+34 822 38 97 29,D08611063,count_bank: ES2856044797216477731081
+Cecilio Reyes Cano,X9112907P,"Cuesta de Saturnino Lloret 21
+Baleares, 50394",cp: 14660,#f47061,+34 713 45 75 60,X9112907P,count_bank: ES4804625872549983558250
+Trinidad Eduardo Alarcón Alegria,C15430614,"Pasadizo de Pascuala Millán 62 Piso 9 
+Zamora, 08488",cp: 36583,#e0bf1d,+34748 643 356,C15430614,count_bank: ES3507534526941762209277
+Amaya Costa Aramburu,Z4580607R,"Pasaje Nayara Serna 629
+Sevilla, 50728",cp: 48674,#d532db,+34 981664528,Z4580607R,count_bank: ES8891295676978106964740
+Itziar Ortiz Cuevas,X6763992Z,"Alameda Primitivo Bustos 22
+Cáceres, 41319",cp: 35204,#115072,+34981 15 56 75,X6763992Z,count_bank: ES1321790729163478574830
+Melchor Grande Folch,V0723191C,"Camino de Malena Matas 97 Apt. 99 
+Córdoba, 49329",cp: 07439,#4dccc7,+34 823 17 56 83,V0723191C,count_bank: ES9680967566691035633283
+Tristán Bermúdez Antón,95948330N,"Cuesta Vilma Peña 75
+Navarra, 50490",cp: 43730,#3296d1,+34983 156 510,95948330N,count_bank: ES3797526520184421222286
+Felisa Tenorio,14469975P,"Ronda Paz Redondo 62 Piso 8 
+Las Palmas, 25237",cp: 14625,#fc9c79,+34823 81 69 10,14469975P,count_bank: ES7293395861057497663494
+Adela Chamorro Talavera,Y8739458R,"Glorieta de Jerónimo Gonzalo 65 Puerta 3 
+Málaga, 17273",cp: 24475,#aa1e3f,+34 946 70 23 82,Y8739458R,count_bank: ES6070431190250834851194
+Anselmo Ignacio Salmerón Chacón,Z1872638Y,"Pasadizo Domingo Calderón 50 Puerta 4 
+Castellón, 50176",cp: 44459,#5ca4ed,+34947 44 52 60,Z1872638Y,count_bank: ES9580815197403194942189
+Ibán Abella,64462958F,"Alameda de Coral Blanco 67 Apt. 19 
+Las Palmas, 07513",cp: 49377,#6f56d3,+34876699958,64462958F,count_bank: ES2487843700101328421206
+Fito Angulo Cepeda,51601505Q,"Paseo Natividad Guillen 8 Apt. 54 
+Toledo, 05567",cp: 48812,#041bed,+34 924 19 68 82,51601505Q,count_bank: ES0328656848577842563755
+Ibán Diego Bolaños Seco,H81026445,"Avenida de Florencia Uribe 99
+Vizcaya, 22488",cp: 45441,#07ea69,+34925843003,H81026445,count_bank: ES8100998331091092610719
+Moisés Calzada Contreras,87314913J,"Camino Macaria Macías 984
+Vizcaya, 09212",cp: 01404,#f74580,+34 976 482 672,87314913J,count_bank: ES4408759738094903439205
+Gregorio de Cámara,F8084465G,"Camino de Augusto León 96
+Huelva, 29550",cp: 48500,#e7f98b,+34 885 352 162,F8084465G,count_bank: ES0785147168671330764756
+Leonor Vicente Alcolea,S0398875E,"Avenida de Abril Colom 32 Piso 6 
+Cáceres, 50314",cp: 04187,#10d0d3,+34 828 791 678,S0398875E,count_bank: ES1109664190894371885446
+Rosaura Blanca Pallarès,C02468916,"Acceso de Damián Muñoz 42 Puerta 6 
+Murcia, 03390",cp: 25418,#4ca01b,+34 730 80 81 50,C02468916,count_bank: ES0823211458633225966814
+Dan Raya Cabo,95499818T,"Urbanización de Dominga Abril 84 Piso 6 
+León, 39128",cp: 44469,#adf796,+34939904904,95499818T,count_bank: ES7716516049727190375962
+Jose Manuel Moles Prieto,U9767438F,"Pasadizo Carlos Novoa 95 Apt. 68 
+Ciudad, 49986",cp: 08176,#2b79ef,+34885956037,U9767438F,count_bank: ES2222505085397152828903
+Tiburcio Miró Nevado,86159837C,"Cuesta Marina Barbero 68 Puerta 0 
+Salamanca, 38163",cp: 10686,#5bd642,+34 873 21 53 02,86159837C,count_bank: ES4101277956607371168040
+Olegario Armas Miralles,88104375T,"Camino de Remedios Abad 622
+Zamora, 20485",cp: 08727,#a1fcd5,+34888 980 032,88104375T,count_bank: ES6378964060264066611964
+Andrea Pi Olmedo,98762178V,"Ronda de Pancho Riquelme 1 Apt. 62 
+Madrid, 30965",cp: 20932,#05aa55,+34700068605,98762178V,count_bank: ES6750881107801596731611
+Sandalio Huerta Mayoral,60277671F,"Cuesta Rubén Angulo 89
+Santa Cruz de Tenerife, 15326",cp: 03971,#ba5b12,+34737 32 42 59,60277671F,count_bank: ES1507752539328950789474
+Teresita Tello Solé,Z4208941S,"Plaza Edmundo Polo 31
+Baleares, 40429",cp: 39556,#9de281,+34 944725407,Z4208941S,count_bank: ES2347159449604189377359
+Miriam Pellicer-Palacios,62986341J,"Callejón Brunilda Pinedo 53
+Guadalajara, 32965",cp: 06700,#6fe8cb,+34975 536 261,62986341J,count_bank: ES4309863497603192511445
+Javier Cámara Torrecilla,Z4534987J,"Paseo Luis Nogués 58
+Guipúzcoa, 02571",cp: 43295,#d83188,+34942 99 34 77,Z4534987J,count_bank: ES8930884273377984172690
+Javi Rosendo Mármol Pulido,Y5065127N,"Ronda Eladio Ferrándiz 55
+Girona, 25429",cp: 31703,#f9bdb8,+34 922593195,Y5065127N,count_bank: ES7493172202019799298777
